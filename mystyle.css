@@ -11,11 +11,11 @@
     .background {
         background:rgb(216, 6, 6);
         background-blend-mode: darken;
-        background-size: contain;
+        background-size: auto;
     }
 
     .nav-list {
-        width: 100%;
+        width: 200%;
         display:flex;
         align-items:  center;
         font-size: 150%;
@@ -50,13 +50,13 @@
 
     .firstsection {
         background-color:gray;
-        height: 1700px;
+        height: 1500px;
         
     }
 
     .secondsection {
         background-color:gray;
-        height: 1700px;
+        height: 1500px;
     }
     .thirdsection {
         background-color:gray;
@@ -64,7 +64,7 @@
     }
     .fourthsection {
         background-color:gray;
-        height: 1450px;
+        height: 1500px;
     }
     .fifthsection {
         background-color:gray;
