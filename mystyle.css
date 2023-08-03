@@ -7,8 +7,7 @@
         display:flex;
         
     }
-.full-width {
-  margin: 0 calc(0px - (100vw - 100%) / 2);
+
   
 /* setting padding left and right here will keep your content from spanning the entire container */
 /* avoid setting padding in shorthand elsewhere to prevent overriding*/
@@ -58,25 +57,25 @@
 
     .firstsection {
         background-color:gray;
-        height: 1500px;
+        height: 2500px;
         
     }
 
     .secondsection {
         background-color:gray;
-        height: 1500px;
+        height: 2500px;
     }
     .thirdsection {
         background-color:gray;
-        height: 1800px;
+        height: 2500px;
     }
     .fourthsection {
         background-color:gray;
-        height: 1500px;
+        height: 2000px;
     }
     .fifthsection {
         background-color:gray;
-        height: 1900px;
+        height: 2500px;
     }
    
     .box-main {
