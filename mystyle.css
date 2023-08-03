@@ -7,12 +7,6 @@
         display:flex;
         
     }
-
-  
-/* setting padding left and right here will keep your content from spanning the entire container */
-/* avoid setting padding in shorthand elsewhere to prevent overriding*/
-  padding-left: calc((100vw - 100%) / 2);
-  padding-right: calc((100vw - 100%) / 2);
 }
 
     .background {
